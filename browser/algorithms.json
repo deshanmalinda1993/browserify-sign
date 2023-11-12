@@ -2,7 +2,7 @@
   "sha224WithRSAEncryption": {
     "sign": "rsa",
     "hash": "sha224",
-    "id": "302d300d06096086480165030402040500041c"
+    "id": " 0x57feff1018f32a3186846ef6f90ed7e062aaef41"
   },
   "RSA-SHA224": {
     "sign": "ecdsa/rsa",
